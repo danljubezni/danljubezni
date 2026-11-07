@@ -1,5 +1,6 @@
 wydsuchzijpnpbdytsxh test test im testing
 
+if youre talking to me and im not talking back im afk just whisper me
 <!--
 **danljubezni/danljubezni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
