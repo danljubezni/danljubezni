@@ -1,6 +1,10 @@
 wydsuchzijpnpbdytsxh test test im testing
 
 if youre talking to me and im not talking back im afk just whisper me
+
+online = im actively on pt
+away = offtab most likely just shoot me a wsp ill get back to you in a minute hopefully
+busy = i am busy which means theres a lesser chance ill get back to you
 <!--
 **danljubezni/danljubezni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
